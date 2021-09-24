@@ -28,8 +28,8 @@ You can try out the deployment script with the IrisClassifier for the iris datas
 
 2. Copy and change the [sample config file](sagemaker_config.json) given and change it according to your deployment specifications. Check out the [config section](#configuration-options) to find the differenet options.
 
-3. Create Sagemaker deployment with the deployment tool. 
-   
+3. Create Sagemaker deployment with the deployment tool.
+
    Run deploy script in the command line:
 
     ```bash
